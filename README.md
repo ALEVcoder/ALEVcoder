@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/Gmail-alevcoder1gmail.com-red)](mailto:alevcoder1@gmail.com)
 
 
-<img src="https://t.me/ALEVcoder" width="50"> A little more about me...  
+<a href="https://t.me/ALEVcoder" width="50"> A little more about me...</a>  
 
 ```javascript
 const ashraf = {
