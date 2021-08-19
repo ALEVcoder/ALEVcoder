@@ -5,7 +5,7 @@ Bu mening Birinchi Portfoliom
 #🙏, I'm ALEVcoder dv.r 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-alevcoder)](https://www.linkedin.com/in/alevcoder/)
+[![](https://img.shields.io/badge/LinkedIn--alevcoder)](https://www.linkedin.com/in/alevcoder/)
 [![](https://img.shields.io/badge/Gmail-alevcoder1gmail.com-red)](mailto:alevcoder1@gmail.com)
 
 
