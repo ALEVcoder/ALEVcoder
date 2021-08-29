@@ -1,30 +1,19 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+![](http://i.imgur.com/y8g506n.png?1)
 
-#🙏, I'm ALEVcoder dv.r 
-## Full Stack Developer 👨‍💻
-
-[![](https://img.shields.io/badge/LinkedIn-alevcoder-blue)](https://www.linkedin.com/in/alevcoder/)
-[![](https://img.shields.io/badge/Gmail-alevcoder1gmail.com-red)](mailto:alevcoder1@gmail.com)
+### Hi there, I'm ALEVcoder 👋
 
 
-<a href="https://t.me/ALEVcoder" width="50"> A little more about me...</a>  
+## I'm a Student, Web-developer and also Kindman! 😊
 
-```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven"],
-}
-```
+- 🔭 I am launching my first real project! Soon...
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code and play football / basketball
 
----
+![GitHub last commit](https://img.shields.io/github/last-commit/AhmadKhurshetov/22-school)
+
+## GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=alevcoder&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=alevcoder&theme=radical"/>|
+|---|---|
 ⭐️ From [@alevcoder](https://github.com/alevcoder)
