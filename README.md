@@ -3,7 +3,8 @@
 ### Hi there, I'm ALEVcoder 👋
 
 
-## I'm a Student, Web-developer and also Kindman! 😊
+## I'm a Student, Web-developer😊
+## Oʼz-oʼzini rivojlantirish tugagan joyda, divan boshlanadi. ☝🏽
 
 - 🔭 I am launching my first real project! Soon...
 - 🌱 I’m currently learning everything 🤣
